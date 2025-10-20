@@ -1,0 +1,54 @@
+// TinmanApps Dividend Proxy (Render Version v1.0)
+// Unified fetcher for Yahoo Finance + Finnhub
+
+import express from "express";
+import fetch from "node-fetch";
+
+const app = express();
+
+app.get("/api", async (req, res) => {
+  const symbol = req.query.symbol;
+  const finnhubKey = process.env.FINNHUB_API_KEY;
+
+  if (!symbol) return res.status(400).json({ error: "Missing symbol" });
+
+  try {
+    const yahooUrl = `https://query1.finance.yahoo.com/v10/finance/quoteSummary/${symbol}?modules=price,summaryDetail`;
+    const finnhubUrl = `https://finnhub.io/api/v1/quote?symbol=${symbol}.US&token=${finnhubKey}`;
+
+    const [yahooRes, finnhubRes] = await Promise.allSettled([
+      fetch(yahooUrl),
+      fetch(finnhubUrl),
+    ]);
+
+    let yahooData = {};
+    if (yahooRes.status === "fulfilled") {
+      try {
+        yahooData = await yahooRes.value.json();
+      } catch {}
+    }
+
+    let finnhubData = {};
+    if (finnhubRes.status === "fulfilled") {
+      try {
+        finnhubData = await finnhubRes.value.json();
+      } catch {}
+    }
+
+    res.json({
+      success: true,
+      source: "TinmanApps Render Proxy",
+      symbol,
+      yahoo: yahooData,
+      finnhub: finnhubData,
+      timestamp: new Date().toISOString(),
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.toString() });
+  }
+});
+
+const PORT = process.env.PORT || 10000;
+app.listen(PORT, () =>
+  console.log(`✅ TinmanApps Dividend Proxy running on port ${PORT}`)
+);

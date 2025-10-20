@@ -1,0 +1,14 @@
+{
+  "name": "tinmanapps-dividends-proxy",
+  "version": "1.0.0",
+  "description": "Render-based proxy for TinmanApps Dividend Companion",
+  "main": "api/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
