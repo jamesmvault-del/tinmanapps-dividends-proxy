@@ -13,7 +13,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:11:08.441704+00:00",
+    "last_updated": "2025-12-21T07:12:24.350573+00:00",
     "status": "live"
   },
   {
@@ -30,7 +30,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:11:19.396441+00:00",
+    "last_updated": "2025-12-21T07:12:36.476820+00:00",
     "status": "live"
   },
   {
@@ -47,42 +47,42 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:11:30.777615+00:00",
+    "last_updated": "2025-12-21T07:12:48.834539+00:00",
     "status": "live"
   },
   {
     "symbol": "MAIN",
-    "name": "MAIN",
-    "sector": "N/A",
-    "price": 0,
+    "name": "Main Street Capital Corp",
+    "sector": "Financial Services",
+    "price": 60.18,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0,
-    "stability": "Unknown",
-    "health": "Unknown",
-    "risk": "Unknown",
-    "source": "Fallback",
-    "last_updated": "2025-12-20T07:11:51.333894+00:00",
-    "status": "stale"
+    "monthly_income_per_100": 0.0,
+    "stability": "Updating...",
+    "health": "Updating...",
+    "risk": "Updating...",
+    "source": "Finnhub",
+    "last_updated": "2025-12-21T07:13:00.976398+00:00",
+    "status": "live"
   },
   {
     "symbol": "PSEC",
-    "name": "PSEC",
-    "sector": "N/A",
-    "price": 0,
+    "name": "Prospect Capital Corp",
+    "sector": "Financial Services",
+    "price": 2.46,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0,
-    "stability": "Unknown",
-    "health": "Unknown",
-    "risk": "Unknown",
-    "source": "Fallback",
-    "last_updated": "2025-12-20T07:12:19.072514+00:00",
-    "status": "stale"
+    "monthly_income_per_100": 0.0,
+    "stability": "Updating...",
+    "health": "Updating...",
+    "risk": "Updating...",
+    "source": "Finnhub",
+    "last_updated": "2025-12-21T07:13:13.280875+00:00",
+    "status": "live"
   },
   {
     "symbol": "AGNC",
@@ -98,7 +98,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:12:33.768250+00:00",
+    "last_updated": "2025-12-21T07:13:25.457690+00:00",
     "status": "live"
   },
   {
@@ -115,7 +115,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:12:44.332190+00:00",
+    "last_updated": "2025-12-21T07:13:37.534871+00:00",
     "status": "live"
   },
   {
@@ -132,7 +132,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:12:54.992868+00:00",
+    "last_updated": "2025-12-21T07:13:49.900717+00:00",
     "status": "live"
   },
   {
@@ -149,7 +149,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:13:05.791751+00:00",
+    "last_updated": "2025-12-21T07:14:01.937963+00:00",
     "status": "live"
   },
   {
@@ -166,7 +166,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2025-12-20T07:13:16.497630+00:00",
+    "last_updated": "2025-12-21T07:14:13.987315+00:00",
     "status": "live"
   }
 ]
