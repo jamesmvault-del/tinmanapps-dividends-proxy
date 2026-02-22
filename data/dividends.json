@@ -1,54 +1,54 @@
 [
   {
     "symbol": "O",
-    "name": "Realty Income Corp",
-    "sector": "Real Estate",
-    "price": 66.14,
+    "name": "O",
+    "sector": "N/A",
+    "price": 0,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0.0,
-    "stability": "Updating...",
-    "health": "Updating...",
-    "risk": "Updating...",
-    "source": "Finnhub",
-    "last_updated": "2026-02-21T07:24:59.720370+00:00",
-    "status": "live"
+    "monthly_income_per_100": 0,
+    "stability": "Unknown",
+    "health": "Unknown",
+    "risk": "Unknown",
+    "source": "Fallback",
+    "last_updated": "2026-02-22T07:29:45.261502+00:00",
+    "status": "stale"
   },
   {
     "symbol": "STAG",
-    "name": "STAG Industrial Inc",
-    "sector": "Real Estate",
-    "price": 39.53,
+    "name": "STAG",
+    "sector": "N/A",
+    "price": 0,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0.0,
-    "stability": "Updating...",
-    "health": "Updating...",
-    "risk": "Updating...",
-    "source": "Finnhub",
-    "last_updated": "2026-02-21T07:25:12.001860+00:00",
-    "status": "live"
+    "monthly_income_per_100": 0,
+    "stability": "Unknown",
+    "health": "Unknown",
+    "risk": "Unknown",
+    "source": "Fallback",
+    "last_updated": "2026-02-22T07:30:07.272570+00:00",
+    "status": "stale"
   },
   {
     "symbol": "EPR",
-    "name": "EPR Properties",
-    "sector": "Real Estate",
-    "price": 57.75,
+    "name": "EPR",
+    "sector": "N/A",
+    "price": 0,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0.0,
-    "stability": "Updating...",
-    "health": "Updating...",
-    "risk": "Updating...",
-    "source": "Finnhub",
-    "last_updated": "2026-02-21T07:25:24.347839+00:00",
-    "status": "live"
+    "monthly_income_per_100": 0,
+    "stability": "Unknown",
+    "health": "Unknown",
+    "risk": "Unknown",
+    "source": "Fallback",
+    "last_updated": "2026-02-22T07:30:27.809914+00:00",
+    "status": "stale"
   },
   {
     "symbol": "MAIN",
@@ -64,7 +64,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:25:36.366482+00:00",
+    "last_updated": "2026-02-22T07:30:38.614688+00:00",
     "status": "live"
   },
   {
@@ -81,7 +81,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:25:48.713684+00:00",
+    "last_updated": "2026-02-22T07:30:49.466911+00:00",
     "status": "live"
   },
   {
@@ -98,7 +98,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:26:01.195857+00:00",
+    "last_updated": "2026-02-22T07:31:00.059129+00:00",
     "status": "live"
   },
   {
@@ -115,7 +115,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:26:13.235749+00:00",
+    "last_updated": "2026-02-22T07:31:10.701802+00:00",
     "status": "live"
   },
   {
@@ -132,7 +132,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:26:25.601895+00:00",
+    "last_updated": "2026-02-22T07:31:21.537921+00:00",
     "status": "live"
   },
   {
@@ -149,7 +149,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:26:37.953879+00:00",
+    "last_updated": "2026-02-22T07:31:31.943187+00:00",
     "status": "live"
   },
   {
@@ -166,7 +166,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-02-21T07:26:50.174766+00:00",
+    "last_updated": "2026-02-22T07:31:42.565299+00:00",
     "status": "live"
   }
 ]
