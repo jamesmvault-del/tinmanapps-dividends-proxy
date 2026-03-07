@@ -3,7 +3,7 @@
     "symbol": "O",
     "name": "Realty Income Corp",
     "sector": "Real Estate",
-    "price": 64.8,
+    "price": 65,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -13,14 +13,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:32:27.560364+00:00",
+    "last_updated": "2026-03-07T07:21:43.308865+00:00",
     "status": "live"
   },
   {
     "symbol": "STAG",
     "name": "STAG Industrial Inc",
     "sector": "Real Estate",
-    "price": 38.97,
+    "price": 38.1,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -30,14 +30,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:32:38.644927+00:00",
+    "last_updated": "2026-03-07T07:21:54.138406+00:00",
     "status": "live"
   },
   {
     "symbol": "EPR",
     "name": "EPR Properties",
     "sector": "Real Estate",
-    "price": 57.56,
+    "price": 57.46,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -47,14 +47,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:32:51.021777+00:00",
+    "last_updated": "2026-03-07T07:22:05.229307+00:00",
     "status": "live"
   },
   {
     "symbol": "MAIN",
     "name": "Main Street Capital Corp",
     "sector": "Financial Services",
-    "price": 58.3,
+    "price": 57.37,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -64,7 +64,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:01.757064+00:00",
+    "last_updated": "2026-03-07T07:22:16.287368+00:00",
     "status": "live"
   },
   {
@@ -81,14 +81,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:12.780683+00:00",
+    "last_updated": "2026-03-07T07:22:27.453297+00:00",
     "status": "live"
   },
   {
     "symbol": "AGNC",
     "name": "AGNC Investment Corp",
     "sector": "Real Estate",
-    "price": 10.9,
+    "price": 10.64,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -98,14 +98,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:23.495117+00:00",
+    "last_updated": "2026-03-07T07:22:38.511004+00:00",
     "status": "live"
   },
   {
     "symbol": "SLG",
     "name": "SL Green Realty Corp",
     "sector": "Real Estate",
-    "price": 39.75,
+    "price": 38.75,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -115,14 +115,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:34.563982+00:00",
+    "last_updated": "2026-03-07T07:22:49.333823+00:00",
     "status": "live"
   },
   {
     "symbol": "GOOD",
     "name": "Gladstone Commercial Corp",
     "sector": "Real Estate",
-    "price": 12.46,
+    "price": 12.36,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -132,14 +132,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:45.284076+00:00",
+    "last_updated": "2026-03-07T07:23:00.553372+00:00",
     "status": "live"
   },
   {
     "symbol": "LAND",
     "name": "Gladstone Land Corp",
     "sector": "Real Estate",
-    "price": 11.81,
+    "price": 11.73,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -149,14 +149,14 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:33:56.288173+00:00",
+    "last_updated": "2026-03-07T07:23:11.457418+00:00",
     "status": "live"
   },
   {
     "symbol": "LTC",
     "name": "LTC Properties Inc",
     "sector": "Real Estate",
-    "price": 38.16,
+    "price": 38.4,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
@@ -166,7 +166,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-06T07:34:07.464310+00:00",
+    "last_updated": "2026-03-07T07:23:22.344645+00:00",
     "status": "live"
   }
 ]
