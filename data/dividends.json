@@ -13,7 +13,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:21:43.308865+00:00",
+    "last_updated": "2026-03-08T07:24:47.984295+00:00",
     "status": "live"
   },
   {
@@ -30,7 +30,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:21:54.138406+00:00",
+    "last_updated": "2026-03-08T07:24:58.774184+00:00",
     "status": "live"
   },
   {
@@ -47,7 +47,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:22:05.229307+00:00",
+    "last_updated": "2026-03-08T07:25:09.530559+00:00",
     "status": "live"
   },
   {
@@ -64,7 +64,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:22:16.287368+00:00",
+    "last_updated": "2026-03-08T07:25:20.381102+00:00",
     "status": "live"
   },
   {
@@ -81,25 +81,25 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:22:27.453297+00:00",
+    "last_updated": "2026-03-08T07:25:31.216891+00:00",
     "status": "live"
   },
   {
     "symbol": "AGNC",
-    "name": "AGNC Investment Corp",
-    "sector": "Real Estate",
-    "price": 10.64,
+    "name": "AGNC",
+    "sector": "N/A",
+    "price": 0,
     "yield": 0,
     "payout_frequency": "Monthly",
     "ex_div_date": "N/A",
     "next_payout_estimate": "N/A",
-    "monthly_income_per_100": 0.0,
-    "stability": "Updating...",
-    "health": "Updating...",
-    "risk": "Updating...",
-    "source": "Finnhub",
-    "last_updated": "2026-03-07T07:22:38.511004+00:00",
-    "status": "live"
+    "monthly_income_per_100": 0,
+    "stability": "Unknown",
+    "health": "Unknown",
+    "risk": "Unknown",
+    "source": "Fallback",
+    "last_updated": "2026-03-08T07:25:52.186389+00:00",
+    "status": "stale"
   },
   {
     "symbol": "SLG",
@@ -115,7 +115,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:22:49.333823+00:00",
+    "last_updated": "2026-03-08T07:26:03.481115+00:00",
     "status": "live"
   },
   {
@@ -132,7 +132,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:23:00.553372+00:00",
+    "last_updated": "2026-03-08T07:26:24.067047+00:00",
     "status": "live"
   },
   {
@@ -149,7 +149,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:23:11.457418+00:00",
+    "last_updated": "2026-03-08T07:26:34.820355+00:00",
     "status": "live"
   },
   {
@@ -166,7 +166,7 @@
     "health": "Updating...",
     "risk": "Updating...",
     "source": "Finnhub",
-    "last_updated": "2026-03-07T07:23:22.344645+00:00",
+    "last_updated": "2026-03-08T07:26:45.487693+00:00",
     "status": "live"
   }
 ]
